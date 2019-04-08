@@ -1,0 +1,65 @@
+
+
+
+program a;
+const int x1:=13;
+const double x2:=31.32e+2; 
+const double a:=12.2;
+const bool x3:=1;
+const char x4:=67;
+const array [10] of int x5:=0;
+const array [4,5] of bool x6:=0;
+const array [3] of array [3] of int x7:=0;
+var int a,b:=10,k;
+var int bb,f:=22;
+var bool c:=2>=3;
+var int d1:=k+a,d2:=k-a,d3:=k/a,d4:=k*a,d5:=k or a,d6:=k mod a,d7:=k and a,d8:=b++,d9:=b--,d10:=true,d11:=false,d12:=-b,d13:=+b,d14:=a div b,d15:=a+b*k, d16:=not a;
+var bool c:=2>=3;
+var double as:=2;
+procedure a(i,j:int,v:double);
+	const int x7:=8;
+	var int bb,f:=22,k;
+	var double as:=23;
+	function int b(i1,j1:int,b:bool);
+		var double h:=2;
+		begin 
+			repeat 
+				proc2(h,i1,j1)
+			until b<h
+	end;
+	begin 
+		begin 
+		end;
+		if (d1*d2) then 
+			begin
+			d3:=func1(d2,d3+d4)
+			end
+		else 
+			begin
+				x5[5]:=57
+			end
+end;
+begin
+		begin 
+		
+			for(id:=100;id>=1;id--)
+				begin
+				i123 := hello ++ and me12
+				end
+		end;
+		begin 
+		
+		for(id:=100;id>=1;id--)
+			begin
+			id:=+2*12 div (2.3e25 and true mod 3) 
+			end
+		end;
+	begin
+	a(2,3,123.23);
+	case 23*123+true and false -2.4 of
+		l:begin p:= id++ end;
+		2,3,4: begin a(23,42,123.345)end;
+		23: begin a := 23*132/23 div (13-213) and not false end
+	end
+end
+ 

@@ -1,0 +1,40 @@
+
+
+
+const array [4,5] of bool x6:=0;
+const array [3] of array [3] of int x7:=0;
+const array [10] of int x5:=0;
+const int x5:=13;
+const double x6:=31.32e+2; 
+const double a:=12.2;
+var int a,b:=10,k;
+var int bb,f:=22;
+var bool c:=2>=3;
+var int d1:=k+a,d2:=k-a,d3:=k/a,d4:=k*a,d5:=k or a,d6:=k mod a,d7:=k and a,d8:=b++,d9:=b--,d10:=true,d11:=false,d12:=-b,d13:=+b,d14:=a div b,d15:=a+b*k, d16:=not a;
+var bool c:=2>=3;
+var double as:=2;
+procedure a(i,j:int,v:double);
+	const int x7:=8;
+	var int bb,f:=22,k;
+	var double as:=23;
+	function int b(i1,j1:int,b:bool);
+		var double h:=2;
+		begin 
+			repeat 
+				proc2(h,i1,j1)
+			until b<h
+	end;
+	begin 
+		begin 
+		end;
+		if (d1*d2) then 
+			begin
+			d3:=func1(d2,d3+d4)
+			end
+		else 
+			begin
+				x5[5]:=11125
+			end
+end;
+
+ 

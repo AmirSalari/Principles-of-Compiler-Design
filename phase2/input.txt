@@ -1,0 +1,113 @@
+program a;
+const int x1:=13;double x2:=31.32e+2;double a:=12.2;bool x3:=1;char x4:=67;array [10] of int x5:=0;array [4,5] of bool x6:=0;array [3] of array [3] of int x7:=0;
+var int a,b:=10,k;int bb,f:=22;bool c:=2>=3;int d1:=k+a,d2:=k-a,d3:=k/a,d4:=k*a,d5:=k or a,d6:=k mod a,d7:=k and a,d8:=b++,d9:=b--,d10:=true,d11:=false,d12:=-b,d13:=+b,d14:=a div b,d15:=a+b*k, d16:=not a;bool c:=2>=3;double as:=2;
+	procedure a(i,j:int;v:double);
+	const int x7:=8;
+	var int bb,f:=22,k;double as:=23;
+	function int b(i1,j1:int;b:bool);
+		var double h:=2;
+		begin 
+			repeat 
+				proc2(h,i1,j1)
+			until b<h;
+			for(d:=1;d<=100;d++)
+				begin
+				end;
+			for(d:=1;d>=5;d--)
+				begin
+				end
+			
+		end;
+	begin 
+		if (d1*d2) then 
+			begin
+			d3:=func1(d2,d3+d4);
+			if (w>2) then 
+				begin
+					d
+				end
+			end
+		else 
+			begin
+				x5[5]:=57
+			end
+	end;
+	procedure a(a:int);
+		const int x1:=13;
+		begin
+		end;
+	procedure a;
+		begin
+			ff
+		end;
+	procedure b(a:int);
+		const int x1:=13;
+		var int a;
+		begin
+		end;
+	procedure d(a:int);
+		procedure b(a:int);
+			const int x1:=13;
+			var int a;
+			begin
+			end;
+		function char myfunc;
+			const int x1:=13;
+			var int a;
+			begin
+			end;
+		function bool b(a:int);
+			begin
+				func1
+			end;
+		function array[2] of int b;
+			begin
+				func1
+			end;	
+	begin
+	end;
+	procedure d(a:int);
+	    const int x1:=13;
+		procedure b(a:int);
+		const int x1:=13;
+		var int a;
+		begin
+		end;
+	begin
+	end;
+	procedure d;
+	    var int a;
+		procedure b(a:int);
+		const int x1:=13;
+		var int a;
+		begin
+		end;
+	begin
+	end;
+begin
+		begin 
+		
+			for(id:=100;id>=1;id--)
+				begin
+				i123 := hello ++ and me12;
+				repeat until 2>3;
+				f := 12 <= 12.1 > 2 <> r == 2
+				end
+		end;
+		begin 
+		
+			for(d:=1;d<=100;d++)
+				begin
+				d:=+2*12 div (2.3e25 and true mod 3) and a[4] and f(d2)
+				end
+		end;
+		begin
+			a(2,3,123.23);
+			case 23*123+true and false -2.4 of
+				l:begin p:= id++ end;
+				2,3,4: begin a(23,42,123.345) end;
+				23: begin a := 23*132/23 div (13-213) and not false end
+			end
+		end
+end.
+ 
