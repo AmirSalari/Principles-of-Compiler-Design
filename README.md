@@ -1,6 +1,5 @@
 # Compiler
-Compiler Design course - Final project
-Project of Compiler Design Course (BSc)
+Final project of Compiler Design Course (BSc)
 
 Base input grammer is in the repository.
 
